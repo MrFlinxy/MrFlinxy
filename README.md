@@ -4,7 +4,7 @@ I am Muchammad Dimas Nugraha (A carbon based living thing)
 
 - I am a chemitry student ⚗️ that are very interested in programming 🧑‍💻
 - Connect with me beside github at [![Linkedin Badge](https://img.shields.io/badge/-mdimasn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mdimasn/)
-- 🌱 I’m currently learning Flask and Denizen
+- 🌱 I’m currently learning Flask
 
 ### My Github Stats
 
